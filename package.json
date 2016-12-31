@@ -1,0 +1,17 @@
+{
+  "name": "pizzeriaserver",
+  "version": "1.0.0",
+  "description": "Server for Pizzeria App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.5.1",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
